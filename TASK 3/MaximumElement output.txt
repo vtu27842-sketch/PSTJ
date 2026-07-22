@@ -1,0 +1,8 @@
+Enter array size: 3
+Enter array elements:
+2
+3
+4
+Maximum element is: 4
+
+=== Code Execution Successful ===

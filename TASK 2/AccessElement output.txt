@@ -1,0 +1,9 @@
+Enter array size: 3
+Enter array elements:
+1
+2
+3
+Enter index: 2
+Element at index 2 is: 3
+
+=== Code Execution Successful ===

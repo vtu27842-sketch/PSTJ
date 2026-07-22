@@ -1,0 +1,9 @@
+Enter array size: 3
+Enter array elements:
+2
+4
+6
+Enter K: 2
+Kth smallest element is: 4
+
+=== Code Execution Successful ===
